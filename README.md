@@ -50,14 +50,6 @@ An automated network reconnaissance and vulnerability assessment toolkit built w
 - Red Team Operations
 - Python-based Cybersecurity Automation
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divaspathy&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divaspathy&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ### 📫 Connect With Me
 
 - **GitHub:** [@Divaspathy](https://github.com/Divaspathy)
